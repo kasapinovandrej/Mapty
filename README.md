@@ -1,1 +1,1 @@
-# Mapty
+# Mapty - developed while learning JavaScript
